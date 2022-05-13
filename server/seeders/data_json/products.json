@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Sabun Cuci Piring",
+    "price": 2000,
+    "quantity": 10,
+    "status": "Ready"
+  },
+  {
+    "title": "Shampo",
+    "price": 1000,
+    "quantity": 10,
+    "status": "Ready"
+  },
+  {
+    "title": "Fanta",
+    "price": 5000,
+    "quantity": 10,
+    "status": "Ready"
+  }
+]
